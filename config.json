@@ -1,0 +1,6 @@
+{
+  "source_folder": "C:/Users/Downloads",
+  "backup_folder": "D:/Backup",
+  "log_file": "logs/app.log",
+  "report_file": "reports/summary.txt"
+}
